@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="org.scalaforge:scalax:0.1" type="repository">
+    <properties maven-id="org.scalaforge:scalax:0.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/scalax-0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-library-2.12.0-M1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
